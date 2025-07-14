@@ -17,5 +17,4 @@ env/
 
 # IDE
 .vscode/
-.idea/
-.idea
+.idea*
