@@ -1,4 +1,4 @@
-## enrypt and decrypt
+## encrypt and decrypt
 from cryptography.fernet import Fernet
 import json
 import os
